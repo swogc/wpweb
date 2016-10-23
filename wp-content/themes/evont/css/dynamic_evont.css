@@ -1,0 +1,114 @@
+
+
+/* ------------------------------------------------------------------------ */
+/* Yellow Color
+/* ------------------------------------------------------------------------ */
+
+.jx-evont-hero-title h2 , .jx_evont_countdown ul li .count-text , .jx_evont_countdown ul li .count-text , .programs_item.style-2:hover .time , form input[type="submit"]:hover
+{
+	color: #81d742 !important;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Yellow Background
+/* ------------------------------------------------------------------------ */
+
+.jx-evont-title-1 h1 , .jx-evont-mainmenu .submenu li:hover > a , .jx-evont-contactmap-section .contactDetails , .jx-evont-pagetitle h1 , .programs_item:hover .right-side , .jx-evont-portfolio-hover i , .mainBtn:hover,.jx-evont-blog-section .jx-evont-blog-date
+{
+	background: #81d742 !important;
+}
+
+
+
+
+
+/* ------------------------------------------------------------------------ */
+/* Purple Color
+/* ------------------------------------------------------------------------ */
+
+.jx-venue-1 .average .price , .jx-venue-1 .detail-list ul li i , .jx-evont-blog-section h3 a , .programs_item.style-2 .time , #sidebar .widget_recent_entries ul li , .widget ul li a , .jx-evont-blog-section h3
+{
+	color: #1e73be !important;
+}
+
+.programs_item.style-2 .name {
+	color: #1e73be;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Purple Background
+/* ------------------------------------------------------------------------ */
+
+.jx-evont-footer.jx-footer-1 , .jx-evont-sticky.fixed , .plan-column , .jx-evont-blog-section .date_tag , .mainBtn , .widget .widget_tag_cloud a , .jx-evont-pagination .page-numbers , .widget_search input.search-submit , .jx-evont-header.jx-header-1 , .programs_item:hover .left-side , .jx-evont-contact-address .mainBtn:hover , .jx-evont-blog-section .readmore , .jx-evont-share-box-icon .share-title
+{
+	background: #1e73be !important;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Purple Background Color
+/* ------------------------------------------------------------------------ */
+
+.evont-bg-right-small , .widget .widget-title::before , .jx-evont-mainmenu li .submenu
+{
+	background-color: #1e73be !important;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Purple Background Color RGB
+/* ------------------------------------------------------------------------ */
+
+.jx-venue-1 .jx-venue-item .title , .jx-evont-portfolio-hoverlayer , .jx-evont-tint::before,.jx-evont-blog-section .overlay
+{
+	background: rgba(30, 115, 190, 0.80) !important;
+}
+
+
+
+
+/* ------------------------------------------------------------------------ */
+/* Pink Color
+/* ------------------------------------------------------------------------ */
+
+.jx-venue-1 .jx-venue-item .title a:hover , .jx-evont-tagline-2 .jx-evont-tagline-title , .jx-evont-tagline-2 .jx-event-tagline-button , .jx-evont-tagline-section .jx-evont-heading .number , .jx-evont-blog-section h3 a:hover , .widget ul li a:hover , .jx-evont-contact-form button:hover
+{
+	color: #81d742 !important;
+}
+
+.nav-tabs > li > a {
+	color: #81d742;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Pink Background
+/* ------------------------------------------------------------------------ */
+
+.jx-evont-contact-address .mainBtn , .jx-evont-get-updates .btn-default , .nav-tabs > li.active > a , .nav-tabs > li.open > a, .nav-tabs > li:hover > a , .jx-evont-ticket-from form , .standard-column , .widget .widget_tag_cloud a:hover , .jx-evont-pagination .page-numbers.current , .jx-evont-pagination .page-numbers:hover , .jx-evont-contact-form button , .jx-evont-speaker-item:hover
+{
+	background: #81d742 !important;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Pink Background Color RGB
+/* ------------------------------------------------------------------------ */
+
+.jx-evont-speakers-area .overlay , .jx-evont-teammember .overlay
+{
+	background: rgba(129, 215, 66, 0.90) !important;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Pink Border
+/* ------------------------------------------------------------------------ */
+
+.nav-tabs > li > a , .jx-evont-tagline-2 .jx-event-tagline-button , .jx-evont-speaker-item:hover
+{
+	border-color: #81d742 !important;
+}
+
+
+

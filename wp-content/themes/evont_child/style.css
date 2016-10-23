@@ -1,0 +1,20 @@
+/*
+Theme Name: Evont Child
+Description: Evont child theme
+Author: Janxcode
+Template: Evont
+*/
+
+@import url("../evont/style.css");
+
+.jx-evont-sticky.fixed {
+    background: #1E73BE !important;
+}
+
+.main-content-slider {
+  margin-top:0;
+}
+
+.main-content-slider .slider-date {
+  margin-top:0;
+}
