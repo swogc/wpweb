@@ -18,3 +18,32 @@ Template: Evont
 .main-content-slider .slider-date {
   margin-top:0;
 }
+
+.jx_evont_countdown {
+	text-align:center;
+}
+
+.presented-by-wrapper {
+  color: #ffffff;
+  text-align: center;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.presented-by {
+	font-weight:bold;
+  font-size:1.25em;
+}
+
+.jx-evont-footer.jx-footer-1 .jx-evont-social li i {
+	color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+.jx-evont-footer.jx-footer-1 .jx-evont-copyright {
+	color: #ffffff;
+}
+
+.jx-evont-footer.jx-footer-1 .jx-evont-copyright a {
+	color: #ffffff;
+}
